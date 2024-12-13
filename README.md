@@ -1,2 +1,2 @@
-# walmart
+# Walmart
 Walmart Sales Insights
